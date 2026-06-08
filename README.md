@@ -20,3 +20,9 @@ To build strong programming fundamentals and become consistent in coding.
 ## 🚀 Current Progress
 - First Python program created
 - Learning step-by-step basics
+
+---
+
+## 👨‍💻 Author
+Harsh Mishra  
+Aspiring Software Engineer | India
