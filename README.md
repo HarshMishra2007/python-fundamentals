@@ -1,22 +1,22 @@
-# Python Fundamentals
+# Python Fundamentals 🚀
 
-This repository contains my basic Python learning journey as a beginner in Computer Science.
-
----
-
-## 📚 Topics Covered
-- Variables and Data Types
-- Conditional Statements (if-else)
-- Loops (for, while)
-- Functions
-- Basic Problem Solving
+This repository contains my beginner Python learning journey.
 
 ---
 
-## 🎯 Purpose
-To build strong programming fundamentals and logical thinking before starting college-level Computer Science.
+## 📚 What I am learning
+- Variables and data types
+- Loops
+- Basic logic building
+- Writing simple programs
 
 ---
 
-## 🚀 Goal
-To become consistent in coding and improve problem-solving skills daily.
+## 🧠 Why this repo exists
+To build strong programming fundamentals and become consistent in coding.
+
+---
+
+## 🚀 Current Progress
+- First Python program created
+- Learning step-by-step basics
